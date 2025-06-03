@@ -1,0 +1,15 @@
+# .gitignore for micfuckery project
+# Ignore build artifacts and OS files
+*.o
+*.out
+*.exe
+micthing
+micthing.exe
+micthing.out
+*.pyc
+__pycache__/
+.DS_Store
+*.swp
+*.swo
+# Ignore VSCode settings
+.vscode/
